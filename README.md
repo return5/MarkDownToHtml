@@ -1,5 +1,5 @@
 
-convert markdwon into html.
+convert markdown into HTML.
 
 # usage  
 provide a markdown file as argument to main.lua. program will output an HTML file.  
